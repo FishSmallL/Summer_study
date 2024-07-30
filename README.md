@@ -30,3 +30,8 @@
    （5）旅行商问题
    
    （6）运输问题
+
+
+提示：如果公式无法正常显示，需要下载扩展
++ edge：https://microsoftedge.microsoft.com/addons/search/github%20markdown?hl=zh-CN
++ google：https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related
